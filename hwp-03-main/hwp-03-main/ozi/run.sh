@@ -1,0 +1,1 @@
+g++ ../src/ozi.cpp -o ../build/ozi -lb15fdrv && ../build/ozi

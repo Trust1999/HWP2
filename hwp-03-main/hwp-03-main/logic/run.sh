@@ -1,0 +1,1 @@
+g++ ../src/logic.cpp -o ../build/logic -lb15fdrv && ../build/logic
